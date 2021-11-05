@@ -1,0 +1,19 @@
+{
+  "name": "mdfsd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
